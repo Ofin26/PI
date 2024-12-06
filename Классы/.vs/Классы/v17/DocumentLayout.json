@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u0441hangeofchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\\u0441hangeofchedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\homeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\homeworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\teacherclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043A\u043B\u0430\u0441\u0441\u044B\\homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1706E89-A1F3-43A7-ADA8-C34DB52BA6E0}|\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\denis\\desktop\\program in\\\u043A\u043B\u0430\u0441\u0441\u044B\\\u043A\u043B\u0430\u0441\u0441\u044B\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,36 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Schedule.cs",
+              "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\Schedule.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Schedule.cs",
+              "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:13:09.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homework.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
+              "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
+              "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:58:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u0421hangeofchedule.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u0421hangeofchedule.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\\u0421hangeofchedule.cs",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u0421hangeofchedule.cs",
               "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\\u0421hangeofchedule.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA8AAAArAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:42:55.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Homework.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
-              "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
-              "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homework.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Homeworkservice.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homeworkservice.cs",
+              "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homeworkservice.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Homeworkservice.cs",
+              "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\Homeworkservice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T13:40:25.345Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "grading.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\grading.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\grading.cs",
@@ -80,12 +110,11 @@
               "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\grading.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T13:00:44.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T13:00:44.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserAdmin.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\UserAdmin.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\UserAdmin.cs",
@@ -93,12 +122,11 @@
               "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\UserAdmin.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:29:03.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:29:03.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TeacherClass.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\TeacherClass.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\TeacherClass.cs",
@@ -106,12 +134,11 @@
               "RelativeToolTip": "\u041A\u043B\u0430\u0441\u0441\u044B\\TeacherClass.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:22:58.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T12:22:58.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DefaultUser.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\DefaultUser.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\DefaultUser.cs",
@@ -123,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Program in\\\u041A\u043B\u0430\u0441\u0441\u044B\\\u041A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
               "RelativeDocumentMoniker": "\u041A\u043B\u0430\u0441\u0441\u044B\\Program.cs",

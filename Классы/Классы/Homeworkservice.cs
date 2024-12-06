@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DefaultUserNamespace;
+using TeacherClass;
 
-namespace Homework
+namespace Homeworkservice
 {
-    internal class Homework
+    internal class Homeworkservice
     {
-        public string VerificationStatus { get; set; }
+        
     }
 }
