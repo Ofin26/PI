@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Классы\\Классы\\Классы.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Program in\\Классы\\Классы\\Классы.csproj",
       "projectName": "Классы",
-      "projectPath": "C:\\Users\\Denis\\Desktop\\Классы\\Классы\\Классы.csproj",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\Program in\\Классы\\Классы\\Классы.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\Desktop\\Классы\\Классы\\obj\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\Program in\\Классы\\Классы\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

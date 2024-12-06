@@ -3,10 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace 
+using TeacherClass;
+namespace grading
 {
-    internal class Class2
+    internal class grading
     {
+        private void ratings()
+        {
+
+        }
     }
 }
